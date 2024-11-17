@@ -54,6 +54,6 @@ This project aims to provide a comprehensive analysis of sales data for an e-com
 ---
 
 ## Setup Instructions
-1. Clone the repository:
+1. **Clone this repository**  
    ```bash
-  git clone https://github.com/musu2004/Ecommerce-Sales-Dashboard.git
+   git clone https://github.com/musu2004/Ecommerce-Sales-Dashboard.git

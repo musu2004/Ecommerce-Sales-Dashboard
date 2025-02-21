@@ -64,7 +64,7 @@ The **Ecommerce Sales Dashboard** provides a detailed analysis of an e-commerce 
 
 ### 🔹 **Step 1: Clone the Repository**
 ```bash
-git clone https://github.com/your-repo/Ecommerce-Sales-Dashboard.git
+git clone https://github.com/musu2004/Ecommerce-Sales-Dashboard.git
 cd Ecommerce-Sales-Dashboard
 ```
 

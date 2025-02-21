@@ -78,4 +78,3 @@ Modify the data source settings if necessary to connect to your dataset.
 Interact with the visualizations and gain insights from the data.
 
 ---
-📌 **Let's build better e-commerce insights together with Power BI!** 🚀

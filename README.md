@@ -4,8 +4,7 @@
 The **Ecommerce Sales Dashboard** provides a detailed analysis of an e-commerce store's sales performance using **Power BI**. It delivers valuable insights into revenue trends, top-performing products, customer behavior, and payment modes. The dashboard is designed to assist stakeholders in making data-driven decisions for business growth and operational efficiency.
 
 
-![Ecommerce Dashboard](https://github.com/user-attachments/assets/80031b19-4830-47d6-b694-34e931381473)
-
+![Ecommerce Dashboard](https://github.com/user-attachments/assets/74938189-33d5-4746-9cb9-d7b966368629)
 ---
 
 ## 📊 Key Features
